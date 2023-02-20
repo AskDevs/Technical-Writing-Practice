@@ -1,4 +1,4 @@
-## 🔶 Day 1. Topic/Idea
+## 🔶 Day 2. Topic/Idea
 
 The challenge will begin the day after you sign up.
 And pick a topic/title (pick up a domain and stick to it).
@@ -16,7 +16,7 @@ You can brainstorm in a bunch of different ways, including as a group, but here'
 7. Get a new piece of paper, and write your ideas on it until you can't think of anything else.
 8. Repeat until you have ideas you're happy with.
 
-These questions also help you think about a topic for writing, which we'll talk about more in [Day_2](https://github.com/AskDevs/Technical-Writing-Practice/blob/0a9c48aae0da5f16d64e954d3fa26bc55b2500ed/7%20Day%20Writing%20Challenge/Day_2.md).
+These questions also help you think about a topic for writing, which we'll talk about more in [Day_3](https://github.com/codewithshubhi/Technical-Writing-Practice/blob/codewithshubhi-rules/7%20Day%20Writing%20Challenge/Day_3.md).
 
 
 
