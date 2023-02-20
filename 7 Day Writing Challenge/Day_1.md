@@ -12,7 +12,7 @@ If you join, each day you will be guided with procedural steps to follow on each
 
 Are you in? 
 
-## 📝 Technical Writing Challenge Rules 
+## 📝 Challenge Rules 
 
 **🔶 Topic/Idea**: The challenge will begin the day after you sign up.
 And pick a topic/title (pick up a domain and stick to it).
@@ -29,18 +29,20 @@ And pick a topic/title (pick up a domain and stick to it).
 
 
 > At the end of the 7 days, you’ll have written your first blogpost! More importantly, you have begun your writing habit!
+
 ### 🤘  Congratulate Yourself
 Within a week, you undeniably learnt a thing or two, to add with that, you wrote an article, so congratulate yourself.
+
 ## 🤚 How to get help
-When you have a question, hit up the `#7day-writing-challenge` [channel](https://discord.com/channels/1073966100552896632/1073983804437450763) .
+When you have a question, hit up the `#writing-discuss` channel .
 
 ## 📜 Conclusion 
-Well, I guess the challenge has been explained enough. If you need more clarifications, kindly reach me on [twitter]() by using #Askdevs 
+If you need more clarifications, kindly reach me on [twitter](https://twitter.com/intent/tweet?url=https%3A%2F%2Fask-devs.vercel.app%2F&text=%40heyshubhi%20%3Cadd%20your%20question%20here%3E&hashtags=AskDevs) by using #Askdevs 
 
-`#7day-writing-challenge` is officially launched 🚀
+`7_DAY_CHALLENGE` is officially launched 🚀. Join the [community](https://discord.gg/DFwsFKfgEB) and commit to the challenge now!
 
 Commit to the Challenge Now!!
 
-Let's get you some open-source rep!!!
+Let's get your first blogpost published.
 
-At the very least, drop a ⭐ on the repo if you're feeling fancy! 
+Leave a star to support us 🙏
