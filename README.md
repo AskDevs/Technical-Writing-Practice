@@ -6,4 +6,4 @@ Level up your technical writing skills with hands-on challenges.
 
 This challenge will help you publish your first technical blog in 7 days. If you want to get started with technical writing but don't know where to start, this writing challenge is for you.
 
-[Start here]()
+[Start here](./7_DAY_WRITING_CHALLENGE/DAY_1.md)
