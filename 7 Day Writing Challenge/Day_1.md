@@ -14,20 +14,19 @@ Are you in?
 
 ## 📝 Technical Writing Challenge Rules 
 
-**🔶 Step1.Topic/Idea**: The challenge will begin the day after you sign up.
+**🔶 Topic/Idea**: The challenge will begin the day after you sign up.
 And pick a topic/title (pick up a domain and stick to it).
 
-**🔶 Step2.Research**: brainstorm ideas or look up on web for more information and resources.
+**🔶 Research**: brainstorm ideas or look up on web for more information and resources.
 
-**🔶 Step3.Drafting**: Write the first draft and have a intro, middle and end.
+**🔶 Drafting**: Write the first draft and have a intro, middle and end.
 
-**🔶 Step4.Editing**:Use tools to check up on grammar and any corrections. At the end of each day, you’ll let us know how did you wrote that day.
+**🔶 Editing**:Use tools to check up on grammar and any corrections. At the end of each day, you’ll let us know how did you wrote that day.
 
-**🔶 Step5.Review**: At this stage, the article should be around 75% complete. Well Done! The first draft is complete.We will pick your blog for review and feedback will be shared.
+**🔶 Review**: At this stage, the article should be around 75% complete. Well Done! The first draft is complete.We will pick your blog for review and feedback will be shared.
 
-**🔶 Step6.Publish**: Now that you have the idea, the goal, the structure, and some feedback, it’s time to polish everything up and ship it.
+**🔶 Publish nad Share**: Now that you have the idea, the goal, the structure, and some feedback, it’s time to polish everything up and ship it. Once you’ve actually published the post, you’re not done! If you want people to see what you’ve written and get value out of it, make sure to share it in the places where your audience is likely to hang out.  
 
-**🔶 Step7.Share**: Once you’ve actually published the post, you’re not done! If you want people to see what you’ve written and get value out of it, make sure to share it in the places where your audience is likely to hang out.  
 
 > At the end of the 7 days, you’ll have written your first blogpost! More importantly, you have begun your writing habit!
 ### 🤘  Congratulate Yourself
