@@ -25,7 +25,7 @@ And pick a topic/title (pick up a domain and stick to it).
 
 **🔶 Review**: At this stage, the article should be around 75% complete. Well Done! The first draft is complete.We will pick your blog for review and feedback will be shared.
 
-**🔶 Publish nad Share**: Now that you have the idea, the goal, the structure, and some feedback, it’s time to polish everything up and ship it. Once you’ve actually published the post, you’re not done! If you want people to see what you’ve written and get value out of it, make sure to share it in the places where your audience is likely to hang out.  
+**🔶 Publish and Share**: Now that you have the idea, the goal, the structure, and some feedback, it’s time to polish everything up and ship it. Once you’ve actually published the post, you’re not done! If you want people to see what you’ve written and get value out of it, make sure to share it in the places where your audience is likely to hang out.  
 
 
 > At the end of the 7 days, you’ll have written your first blogpost! More importantly, you have begun your writing habit!
