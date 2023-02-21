@@ -1,48 +1,56 @@
-# ✍️ 7 Day Writing Challenge
+## 🔶 Day 2. Topic/Idea
 
-## 🔊 Announcing Our 7 Day Writing Challenge
+The challenge will begin the day after you sign up.
 
-I'm really excited to announce our 7 Day Technical Writing Challenge, which we're beginning next week!
+### 📍 Here are some ways to confirm:
+1. Get yourself role `"@7-DayWritingChallenge"` by clicking up emoji `"✍🏻"` [here](https://discord.com/channels/1073966100552896632/1077232921095716895/1077321891309682738).  
+2. Share/tweet `Day 01/07: I'm joining #7DayWritingChallenge starting today` for accountability.
 
-This challenge will help you kickstart a daily habit of writing. If you want to start a technical blog, this writing challenge is for you.
+### 📍 Picking something to write about
+Decide Why You Want to Write
+It may sound like an obvious tip, but it's worth checking in with yourself: do you know exactly what you want to gain by writing your article?
 
-What makes this even more fun is that we’re going to do the challenge together as a community.
+One of the best ways to narrow it down is to consider why exactly you're writing: what's your end goal?
+Once you have that firmly in mind, what you should write about becomes much more apparent, at least in general terms.
 
-If you join, each day you will be guided with procedural steps to follow on each day.
+**For example:**
 
-Are you in? 
+🔶 If you just want to practice your writing, try and start with the topics that interest you, even if you're not an expert.
 
-## 📝 Challenge Rules 
+🔶 If you're writing to learn something specific, you can stop reading. You've answered your question. 
 
-**🔶 Topic/Idea**: The challenge will begin the day after you sign up.
-And pick a topic/title (pick up a domain and stick to it).
+🔶 If you're writing to show your competence, focus on what you know a lot about and feel confident writing about.
 
-**🔶 Research**: brainstorm ideas or look up on web for more information and resources.
+Your best writing usually comes from topics you're genuinely interested in. Confirming your personal reason brings a lot of clarity. 
 
-**🔶 Drafting**: Write the first draft and have a intro, middle and end.
+> More importantly, what I really want you to write about is something that is personal and important to you.
 
-**🔶 Editing**:Use tools to check up on grammar and any corrections. At the end of each day, you’ll let us know how did you wrote that day.
+Maybe you've always wanted to learn about web automation, CSS art, or game development. Do some research into your interests, and pick something to write from there. This is how I picked up to write and document around Tailwind CSS alongside incorporating it into my projects.
 
-**🔶 Review**: At this stage, the article should be around 75% complete. Well Done! The first draft is complete.We will pick your blog for review and feedback will be shared.
+Some of examples of blogs I recently wrote:
+* Become a Frontend web developer in 2023 - A step by step guide
+* Breaking out of tutorial hell
+* Importance of soft skills in technical roles
+* Why your GitHub profile should stand out?
 
-**🔶 Publish nad Share**: Now that you have the idea, the goal, the structure, and some feedback, it’s time to polish everything up and ship it. Once you’ve actually published the post, you’re not done! If you want people to see what you’ve written and get value out of it, make sure to share it in the places where your audience is likely to hang out.  
+Remember, the goal is to provide value to your readers, so choose topics that are relevant and useful to readers.
 
+### 📍 Brainstorm Ideas
+You can brainstorm in a bunch of different ways, here's the approach to it that works best for me:
 
-> At the end of the 7 days, you’ll have written your first blogpost! More importantly, you have begun your writing habit!
+🔶 Get a pen and paper.
 
-### 🤘  Congratulate Yourself
-Within a week, you undeniably learnt a thing or two, to add with that, you wrote an article, so congratulate yourself.
+🔶 Write down every topic idea that comes to your mind, even if you think it's a bad idea.Keep going until you can't think of anything else.
 
-## 🤚 How to get help
-When you have a question, hit up the `#writing-discuss` channel .
+🔶 If you've found an idea you're happy with, stop.
 
-## 📜 Conclusion 
-If you need more clarifications, kindly reach me on [twitter](https://twitter.com/intent/tweet?url=https%3A%2F%2Fask-devs.vercel.app%2F&text=%40heyshubhi%20%3Cadd%20your%20question%20here%3E&hashtags=AskDevs) by using #Askdevs 
+🔶 If you haven't, look for some more input. You can ask people for suggestions, check out things other people have written, or do some research on the ideas you already have.
 
-`7_DAY_CHALLENGE` is officially launched 🚀. Join the [community](https://discord.gg/DFwsFKfgEB) and commit to the challenge now!
+🔶 Repeat until you have ideas you're happy with.
 
-Commit to the Challenge Now!!
+These questions also help you think about a topic for writing.
 
-Let's get your first blogpost published.
+### 📜  When you have a question, hit up the `#writing-discuss` channel.
+### 🤚 With this Day-2 of challenge completes.
+🐦 Share by tweeting `#7DayWritingChallenge` and let us know  know how your Day 02/07 is going on and what topic you have finalised.
 
-Leave a star to support us 🙏
