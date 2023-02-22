@@ -6,20 +6,19 @@ Let's dive in! 🚀
 
 > If you haven't already signed-up for the challenge on [`discord`](https://discord.gg/Tn9E5pn5). 
 > Do it now by picking [`@7-DayWritingChallenge`](https://discord.com/channels/1073966100552896632/1077232921095716895/1077321891309682738) role. 
-> All challenge updates post Day 2 are sent there. Thank you! 😊
+> All challenge updates will be sent there. Thank you! 😊
 
 ## Create An Outline
 
 Outlines help you organize your thoughts, ideas, or research regarding a topic.
 
-Simply put, an outline is a detailed overview of what will be in your article.
+Simply put, an outline is a detailed overview of your article.
 
 **Example**
 
 For blogpost with title *10 Tools Every Web Developer Should Know* — the outline can go something like this:
 
 - Introduction
-- Body
  - Tool 1
  - Tool 2
  - ...
@@ -30,7 +29,7 @@ A good outline organizes the information such that it's easy to follow for the r
 
 ### Practical Tips 💡 
 
-- For outline ideas refer outline of similar blogposts on [DEV](https://dev.to), [Hashnode](https://hashnode.com).
+- For outline ideas refer outline of similar blogposts on [DEV](https://dev.to) and [Hashnode](https://hashnode.com).
 - Ask [ChatGPT](https://chat.apps.openai.com/) using prompt *Provide the blog sections for topic: <article topic>*
 
 ## Research
