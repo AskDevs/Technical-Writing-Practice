@@ -10,4 +10,4 @@ This challenge will help you publish your first technical blog in 7 days. If you
 
 ## 👋 Join Us On Discord
 
-<a href="[discord.gg/DFwsFKfgEB](https://discord.gg/DFwsFKfgEB)"><img src="https://seeklogo.com/images/D/discord-logo-134E148657-seeklogo.com.png" alt="DiscordLogo" width="100" height="100"></a>
+<a href="[https://discord.gg/DFwsFKfgEB](https://discord.gg/DFwsFKfgEB)"><img src="https://seeklogo.com/images/D/discord-logo-134E148657-seeklogo.com.png" alt="DiscordLogo" width="100" height="100"></a>
