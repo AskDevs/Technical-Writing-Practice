@@ -5,7 +5,7 @@ Let's dive in! 🚀
 
 > If you haven't already signed-up for the challenge on [`discord`](https://discord.gg/Tn9E5pn5). 
 > Do it now by picking [`@7-DayWritingChallenge`](https://discord.com/channels/1073966100552896632/1077232921095716895/1077321891309682738) role. 
-> All challenge updates post Day 2 will be sent there. Thank you! 😊
+> All challenge updates will be sent there. Thank you! 😊
 
 ## Pick a Topic
 Coming up with article topics is easy — if you answer these 3 questions right:
